@@ -147,8 +147,8 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![image](https://github.com/Khabir-Ahmed786/ExplicitIntent-MAD/assets/143950752/e793d0a9-cae3-4385-bc93-3c2b4a08790f)
-![image](https://github.com/Khabir-Ahmed786/ExplicitIntent-MAD/assets/143950752/86cb988a-7c95-44da-8f59-136eda2f3e72)
+<img src="https://github.com/Khabir-Ahmed786/ExplicitIntent-MAD/assets/143950752/e793d0a9-cae3-4385-bc93-3c2b4a08790f.png" height="600">
+<img src="https://github.com/Khabir-Ahmed786/ExplicitIntent-MAD/assets/143950752/86cb988a-7c95-44da-8f59-136eda2f3e72.png" height="600">
 
 
 
